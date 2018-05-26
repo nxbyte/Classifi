@@ -1,0 +1,24 @@
+{
+    "name": "internal-server",
+    "version": "1.0.0",
+    "description": "An open source nodeJS application that stores transfered images",
+    "main": "CORE.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "open",
+        "source",
+        "web",
+        "test",
+        "benchmark"
+    ],
+    "dependencies": {
+        "socket.io": "^2.0.3"
+    },
+    "engines": {
+        "node": ">= 10.2.1"
+    },
+    "author": "Warren Seto",
+    "license": "MIT"
+}
